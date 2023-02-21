@@ -1,0 +1,64 @@
+body{
+    background-image: url(8.jfif);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.ullist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .lilist {
+    float: left;
+    margin: -5px;
+    padding: 5;
+  }
+  
+  li a {
+    display: block;
+    color:rgb(27, 91, 95);
+    text-align: center;
+    padding: 14px 16px;
+    
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #ddd;
+  }
+
+  .text{
+    text-align: center;
+    color:rgb(27, 91, 95);
+    font-size: 35px;
+    padding-top: 88px;
+    padding-right: 600px;
+  }
+   
+.world{
+    padding-right: 170px;
+}
+ 
+.exth{
+    padding-left: 50px;
+}
+  .words{
+    text-align: center;
+    color: white;
+    padding-right: 600px;
+    font-size: large;
+    
+}
+
+.btn1{
+    text-align: center;
+    background-color:#00a2ff;
+    margin-left: 150px;
+    font-size: 16px;
+    border: none;
+    padding: 14px 16px;
+    color: white;
+    border-radius: 25px;
+}
